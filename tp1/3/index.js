@@ -7,7 +7,7 @@ exports = module.exports = {
   datasets,
   algo: function (input) {
     // YOUR CODE BETWEEN HERE
-    
+
     // AND HERE
   },
   verify: function (dataset, output) {
