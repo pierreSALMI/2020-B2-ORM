@@ -19,6 +19,7 @@ Vous devez déterminer le nombre d'allers-retours que devra faire le monte-charg
 ### Entrée
 
 Ligne 1 : un entier N compris entre 1 et 1 000 correspondant au nombre de cartons à faire monter.
+
 Lignes 2 à N+1 : un entier P correspondant au poids en kilogramme de chaque carton.
 
 ### Sortie
